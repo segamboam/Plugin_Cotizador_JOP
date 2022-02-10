@@ -1,0 +1,38 @@
+
+{
+  "date": "2012-01-13",
+  "dueDate": "2015-01-13",
+  "observations": "Observaciones de la cotización.",
+  "anotation" : "Notas de mi cotización",
+  "client": {
+      "id": 178
+  },
+  "seller" : {
+      "id" : "1"
+  },
+  "items" : [
+      { "id": 974,
+        "name": "placa de 45x45cm en polimlam cal 60 ",
+        "description": "Velocidad max 20 km",
+        "price": 45000,
+        "discount": "0.00",
+        "reference": "",
+        "quantity": "1.00",
+        "tax": [],
+        "total": 45000
+      },
+      {"id": 975,
+        "name": "Placa de  60x30cm en polimlam cal 60",
+        "description": "Zona de Cargue y Descargue",
+        "price": 55000,
+        "discount": "0.00",
+        "reference": "",
+        "quantity": "1.00",
+        "tax": [],
+        "total": 55000
+      }
+  ],
+    "costCenter": null,
+    "warehouse": 1,
+    "total": 100000
+}

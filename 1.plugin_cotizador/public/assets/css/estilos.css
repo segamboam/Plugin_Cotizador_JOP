@@ -1,0 +1,87 @@
+:root{
+    --azul-jop:#006DCC;
+    --naranja-jop:#ff5E0D;
+    --oscuro-jop:#232F3E;
+    --blanco-jop:#ffffff;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+    
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.imagen_logo{
+    background-color: var(--blanco-jop);
+    width: 50rem;
+    height: 15rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.imagen_logo img{
+    width: 100%;
+}
+.Textos{
+    background-color:transparent;
+    width: 100%;
+    height: 37rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+        
+}
+.Textos div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border-bottom: 0.1rem solid var(--blanco-jop) ;
+    display: flex;
+    align-items: center;
+}
+.P1, .P3{
+    background-color: var(--azul-jop);
+    color: var(--blanco-jop);
+
+}
+.P2{
+    background-color:var(--blanco-jop);
+    color: var(--oscuro-jop);
+}
+.Textos div p{
+    font-size: 3rem;
+    text-align: justify;
+    width: 70%;
+
+}
+.Textos div p a{
+    color: var(--naranja-jop);
+}
+
+.redireccion{
+    background-color: var(--blanco-jop);
+    width: 100%;
+    height: 20rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.redireccion button{
+    color:var(--blanco-jop);
+    background-color: var(--naranja-jop);
+    width: 20rem;
+    height: 7.5rem;
+    font-size: 3rem;
+    margin-left: 2rem;
+}

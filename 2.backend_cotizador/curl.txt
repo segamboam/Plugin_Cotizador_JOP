@@ -1,0 +1,11 @@
+curl -v -H "Accept: application/json" -H "Content-type: application/json" -X POST  https://api.alegra.com/api/v1/contacts/178 -u 'jopavisos@gmail.com:d88ed99150aa52140919' -d '{"name": "2015-11-15", "email": "prueba2@alegra.com", "phonePrimary": "111 11 11"}' 
+
+curl -v -H "Accept: application/json" -H "Content-type: application/json" -X GET  https://api.alegra.com/api/v1/contacts/178 -u 'jopavisos@gmail.com:d88ed99150aa52140919'
+
+$Nombre_Empresa="Platzi Colombia";
+$email_cliente="platzi@platzi.com";
+$telefono_cliente="3214567890";
+$Direccion_cliente="Avenida siempreviva 742";
+$ciudad_cliente="Bogotá, D.C.";
+$Identificacion="1031178119";
+$Tipo_identificacion="CC"; #NIT
