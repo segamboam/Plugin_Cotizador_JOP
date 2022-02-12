@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./estilos.css">
+    
+  
+    <title>Prueba</title>
+</head>
+<body>
+    <h1>Cotizador items</h1>
+    <section>
+    <h2>Señalizacion</h2>
+    <form class="placa" id="placas">
+        
+        <label for="Producto">Tipo de  producto:</label> <br>
+        <select name="producto" id="producto" >
+            <option value=""></option>
+            <option value="placa">Placa</option>
+            <option value="placa fotoluminiscente">Placa Fotoluminiscente</option>
+            <option value="calcomania">Calcomania</option>
+            <option value="marquillas">Marquillas</option>
+        </select>
+        <br>
+
+        <label for="Material">Material:</label> <br>
+        <select name="material" id="material" >
+            <option value=""></option>
+            <option value="Poliestireno">Poliestireno</option>
+            <option value="Acrilico">Acrilico</option>
+            <option value="Lamina">Lamina</option>
+        </select>
+        <br>
+        <label for="cantidad">Cantidad:</label>
+        <br>
+        <input type="number" name="cantidad" id="cantidad" placeholder="Cantidad">
+        <br>
+        <label for="ancho">Ancho:</label>
+        <br>
+        <input type="number" name="ancho" id="ancho" placeholder="Ancho">
+        <br>
+        <label for="alto">Alto:</label>
+        <br>
+        <input type="number" name="alto" id="alto" placeholder="Alto">
+        <br>
+        <label for="Descripcion">Descripcion:</label>
+        <br>
+        <input type="textor" name="descripcion" id="descripcion" placeholder="Descripcion de las señalizacion que quiere realizar">
+        <br>
+        <label for="texto">Texto:</label>
+        <br>
+        <input type="text" name="texto" id="texto" placeholder="texto de la señal o señales">
+        <br>
+          <button type="submit" class="button__add">
+            AGREGAR PRODUCTO <span>+</span> 
+        </button>
+        </section>
+        <section>
+            <h2>Implementos</h2>
+            <form class="implementos" id="implementos">                
+                <label for="Producto">Tipo de producto:</label> <br>
+                <select name="producto" id="producto" >
+                    <option value=""></option>
+                    <option value="placa">Extintor</option>
+                    <option value="placa fotoluminiscente">Recarga de extintor</option>
+                    <option value="calcomania">Mantenimiento de extintor</option>                    
+                </select>
+                <br>
+        
+                <label for="Tipo">Tipo-Material:</label> <br>
+                <select name="material" id="material" >
+                    <option value=""></option>
+                    <option value="Multiproposito">Multipropósito</option>
+                    <option value="CO2">CO2</option>
+                    <option value="Agua">Agua</option>
+                </select>
+                <br>
+                <label for="Tamaño">Tamaño:</label> <br>
+                <select name="size" id="size" >
+                    <option value=""></option>
+                    <option value="5 lbs">5 lbs</option>
+                    <option value="10 lbs">10 lbs</option>
+                    <option value="15 lbs">15 lbs</option>
+                </select>
+                <br>
+                <label for="cantidad">Cantidad:</label>
+                <br>
+                <input type="number" name="cantidad" id="cantidad" placeholder="Cantidad">
+                <br>             
+                <label for="Especificaciones">Especificaciones:</label>
+                <br>
+                <input type="text" name="Especificaciones" id="Especificaciones" placeholder="Especificaciones de las señalizacion que quiere realizar">
+                <br>               
+                <button type="submit" class="button__add">
+                    AGREGAR PRODUCTO <span>+</span> 
+                </button>
+
+        </section>
+               
+    </form>
+    <script src="./cosas.js"></script>
+
+    <table class="tablaPlacas">
+        <thead>
+            <tr>
+            <th>Tipo</th>
+            <th>Material</th>
+            <th>Cantidad</th>
+            <th>Ancho</th>
+            <th>Alto</th>
+            <th>Descripcion</th>
+            <th>Texto</th>    
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+
+</body>
+
+</html>
