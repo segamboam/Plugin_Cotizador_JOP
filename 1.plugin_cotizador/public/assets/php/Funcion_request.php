@@ -10,7 +10,7 @@ function request_alegra($url_O,$tipo_request,$parametros){
         curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
         curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
 
-        $usuario=base64_encode("ejemploapi@alegra.com:tokenejemploapi12345");
+        $usuario=base64_encode("jopavisos@gmail.com:d88ed99150aa52140919");
     
         $headers = array();
         $headers[] = 'Accept: application/json';

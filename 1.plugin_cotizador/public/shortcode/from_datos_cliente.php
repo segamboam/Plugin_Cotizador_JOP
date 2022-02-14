@@ -23,36 +23,40 @@ function jop_add_form_clientes(){
 </head>
 <form class="clientes__form" id="clientes">
 <div class="clientes__name name--campo">
-<label for="Name">Nombre de la empresa</label>
-<input name="NombreEmpresa" type="text" id="nEmpresa">
+<label for="Name">Nombre de la empresa *</label>
+<input name="NombreEmpresa" type="text" id="nEmpresa" required>
 </div>
 <div class="cliente_email name--campo">
-<label for="email">Email</label>
-<input name="email" type="email" id="nemail">
+<label for="email">Email *</label>
+<input name="email" type="email" id="nemail" required>
 </div>
 <div class="cliente__telefono name--campo">
-<label for="Teñefono">Telefono</label>
-<input name="Telefono" type="number" id="nTelefono">
+<label for="Teñefono">Telefono *</label>
+<input name="Telefono" type="number" id="nTelefono" required>
 </div>
 <div class="cliente__direccion name--campo">
 <label for="adress">Dirección</label>
-<input name="direccion" type="text" id="direccion">
+<input name="direccion" type="text" id="direccion" required>
 </div>
 
 <div class="cliente__ciudad name--campo">
 <label for="ciudad">ciudad</label>
-<input name="ciudad" type="text" id="ciudad">
+<input name="ciudad" type="text" id="ciudad" required>
 </div>
 
 <div class="cliente__identificacion name--campo">
 <label for="identificacion">Identificacion</label>
-<input name="identificacion" type="numero" id="identificacion">
+<input name="identificacion" type="number" id="identificacion" required>
 </div>
 
 
 <div class="cliente__Tindentificacion name--campo">
 <label for="tidentificacion">Tipo de indentificacion</label>
-<input name="tidentificacion" type="text" id="tidentificacion">
+<input name="tidentificacion" type="text" list="optionTIdentification" id="tidentificacion" required>
+<datalist id="optionTIdentification">
+  <option value="CC">
+  <option value="NIT">
+</datalist>
 </div>
 <div class="Button_clientes">
 <input type="submit" value="Create">

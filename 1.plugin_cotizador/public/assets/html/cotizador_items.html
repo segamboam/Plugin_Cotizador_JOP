@@ -1,0 +1,158 @@
+   <!DOCTYPE html>
+   <html lang="en">
+   <head>
+       <meta charset="UTF-8">
+       <meta http-equiv="X-UA-Compatible" content="IE=edge">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <link rel="stylesheet" href="../css/cotizador_items.css">
+       <title>Document</title>
+   </head>
+   <body>
+   <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <section class="box_shortcode">
+        <section class="section_Placas">
+            <h2>Señalizacion</h2>
+            <form class="form_placa" id="form_placas">    
+                <div class="box_placas_1">  
+                    <div class="placas_producto">  
+                        <label for="Producto">Tipo de  producto:</label> 
+                        <select name="producto" id="producto" class="inputs_placas">
+                            <option value=""></option>
+                            <option value="Placa">Placa</option>
+                            <option value="Placa fotoluminiscente">Placa Fotoluminiscente</option>
+                            <option value="calcomania">Calcomania</option>
+                            <option value="Marquillas">Marquilla</option>
+                        </select>
+                    </div>      
+                    <div class="placas_material">
+                        <label for="Material">Material:</label> 
+                        <select name="material" id="material" class="inputs_placas">
+                            <option value=""></option>
+                            <option value="Polilam">Poliestireno</option>
+                            <option value="Acrilico Capsulado">Acrilico Capsulado</option>
+                            <option value="Acrilico Grabada">Acrilico Grabado</option>
+                        </select>
+                    </div>
+                    <div class="placas_cantidad">                    
+                        <label for="cantidad">Cantidad:</label>        
+                        <input type="number" name="cantidad" id="cantidad" placeholder="Cantidad" class="inputs_placas">
+                    </div>
+                    <div class="placas_ancho">  
+                        <label for="placas_ancho">Ancho:</label>        
+                        <input type="number" name="ancho" id="ancho" placeholder="Ancho" class="inputs_placas">
+                    </div>    
+                    <div class="placas-alto">
+                        <label for="placas_alto">Alto:</label>        
+                        <input type="number" name="alto" id="alto" placeholder="Alto" class="inputs_placas">
+                    </div>    
+                </div>
+                <div class="box_placas_2">
+                    <div>
+                        <label for="Descripcion">Descripcion:</label>        
+                        <input type="text" name="descripcion" id="descripcion" placeholder="Descripcion de las señalizacion que quiere realizar" class="inputs_placas">
+                    </div>
+                    <div>
+                        <label for="texto">Texto:</label>        
+                        <input type="text" name="texto" id="texto" placeholder="texto de la señal o señales" class="inputs_placas">
+                    </div>    
+                </div>
+                <div class="placas_button_box">
+                    <button type="submit" class="placas_button">
+                        AGREGAR PRODUCTO <span>+</span> 
+                    </button>
+                </div>
+            </form>
+        </section>
+
+        <section class="section_Implementos">
+            <h2>Implementos</h2>
+            <form class="form_implementos" id="form_implemento"> 
+                <div class="box_implementos_1">    
+                    <div class="producto_implementos">          
+                        <label for="Descripcion">Descripcion:</label> 
+                        <select name="Descripcion" id="Descripcion" >
+                            <option value=""></option>
+                            <option value="Extintor">Extintor</option>
+                            <option value="Recarga de extintor">Recarga de extintor</option>
+                            <option value="Mantenimiento de extintor">Mantenimiento de extintor</option>                    
+                        </select>                
+                    </div>
+                    <div class="material_implementos">        
+                        <label for="Tipo">Tipo-Material:</label> 
+                        <select name="material" id="material" >
+                            <option value=""></option>
+                            <option value="Multiproposito">Multipropósito</option>
+                            <option value="CO2">CO2</option>
+                            <option value="Agua">Agua</option>
+                        </select>
+                    </div>
+                    <div class="tamaño_implementos">
+                        <label for="Tamaño">Tamaño:</label> 
+                        <select name="size" id="size" >
+                            <option value=""></option>
+                            <option value="5 lbs">5 lbs</option>
+                            <option value="10 lbs">10 lbs</option>
+                            <option value="15 lbs">15 lbs</option>
+                        </select>
+                    </div>
+                    <div class="cantidad_implementos">
+                        <label for="cantidad">Cantidad:</label>                
+                        <input type="number" name="cantidad" id="cantidad" placeholder="Cantidad">
+                    </div>
+                </div>
+                <div class="box_implementos_2">  
+                    <div class="especificaciones_implementos">          
+                        <label for="Especificaciones">Especificaciones:</label>                
+                        <input type="text" name="Especificaciones" id="Especificaciones" placeholder="Especificaciones de las señalizacion que quiere realizar">
+                        </div>    
+                </div>  
+                <div class="button_implementos">         
+                    <button type="submit" class="button__add">
+                    AGREGAR PRODUCTO <span>+</span> 
+                </button>
+            </div>
+            </form>
+        </section>
+
+                
+    
+        <table class="tablaPlacas">
+        <thead>
+        <tr>
+        <th>Tipo</th>
+        <th>Material</th>
+        <th>Cantidad</th>
+        <th>Ancho</th>
+        <th>Alto</th>
+        <th>Descripcion</th>
+        <th>Texto</th>    
+        </tr>
+        </thead>
+        <tbody>
+    
+        </tbody>
+        </table>
+        
+        <table class="tablaImplementos">
+        <thead>
+        <tr>
+        <th>Descripcion</th>
+        <th>Tipo/Material</th>
+        <th>Tamaño</th>
+        <th>Cantidad</th>
+        <th>Especificaciones</th>
+        </tr>
+        </thead>
+        <tbody> 
+    
+        </tbody>
+        </table>
+
+
+        <div class="signin__submit">
+        <button id="Button_cotizacion">Cotizar</button>
+        </div>
+    </section>
+       
+</body>
+</html>

@@ -1,120 +1,108 @@
-﻿Idproducto1,Idproducto2,Tipo de producto,Tipo,Material,Area,Precio
-1,1,Placa Poliestireno,Placa,Poliestireno,1,3.301029996
-1,1,Placa Poliestireno,Placa,Poliestireno,32,3.698970004
-1,1,Placa Poliestireno,Placa,Poliestireno,200,3.77815125
-1,1,Placa Poliestireno,Placa,Poliestireno,300,3.903089987
-1,1,Placa Poliestireno,Placa,Poliestireno,450,4.079181246
-1,1,Placa Poliestireno,Placa,Poliestireno,800,4.477121255
-1,1,Placa Poliestireno,Placa,Poliestireno,2400,4.954242509
-1,1,Placa Poliestireno,Placa,Poliestireno,5000,5.255272505
-1,1,Placa Poliestireno,Placa,Poliestireno,18000,5.556302501
-1,2,Placa Acrilico,Placa,Acrilico,1,3.477121255
-1,2,Placa Acrilico,Placa,Acrilico,32,3.77815125
-1,2,Placa Acrilico,Placa,Acrilico,200,4.380211242
-1,2,Placa Acrilico,Placa,Acrilico,300,4.477121255
-1,2,Placa Acrilico,Placa,Acrilico,450,4.643452676
-1,2,Placa Acrilico,Placa,Acrilico,800,4.954242509
-1,2,Placa Acrilico,Placa,Acrilico,2400,5.06069784
-1,2,Placa Acrilico,Placa,Acrilico,5000,5.439332694
-1,2,Placa Acrilico,Placa,Acrilico,18000,5.806179974
-1,3,Placa Lamina,Placa,Lamina,32,4.146128036
-1,3,Placa Lamina,Placa,Lamina,150,4.447158031
-1,3,Placa Lamina,Placa,Lamina,264,4.681241237
-1,3,Placa Lamina,Placa,Lamina,450,4.77815125
-1,3,Placa Lamina,Placa,Lamina,800,4.924279286
-1,3,Placa Lamina,Placa,Lamina,2400,5.127104798
-1,3,Placa Lamina,Placa,Lamina,5000,5.531478917
-1,3,Placa Lamina,Placa,Lamina,18000,5.857332496
-2,4,Placa fotoluminiscente Poliestireno,Placa fotoluminiscente,Poliestireno,9,3.602059991
-2,4,Placa fotoluminiscente Poliestireno,Placa fotoluminiscente,Poliestireno,40,3.903089987
-2,4,Placa fotoluminiscente Poliestireno,Placa fotoluminiscente,Poliestireno,200,4.380211242
-2,4,Placa fotoluminiscente Poliestireno,Placa fotoluminiscente,Poliestireno,300,4.477121255
-2,4,Placa fotoluminiscente Poliestireno,Placa fotoluminiscente,Poliestireno,450,4.579783597
-2,4,Placa fotoluminiscente Poliestireno,Placa fotoluminiscente,Poliestireno,800,4.698970004
-2,4,Placa fotoluminiscente Poliestireno,Placa fotoluminiscente,Poliestireno,2400,4.954242509
-2,4,Placa fotoluminiscente Poliestireno,Placa fotoluminiscente,Poliestireno,5000,5.301029996
-2,4,Placa fotoluminiscente Poliestireno,Placa fotoluminiscente,Poliestireno,10800,4.716003344
-2,5,Placa fotoluminiscente Acrilico,Placa fotoluminiscente,Acrilico,25,3.602059991
-2,5,Placa fotoluminiscente Acrilico,Placa fotoluminiscente,Acrilico,200,4.556302501
-2,5,Placa fotoluminiscente Acrilico,Placa fotoluminiscente,Acrilico,300,4.62324929
-2,5,Placa fotoluminiscente Acrilico,Placa fotoluminiscente,Acrilico,450,4.698970004
-2,5,Placa fotoluminiscente Acrilico,Placa fotoluminiscente,Acrilico,800,5
-2,5,Placa fotoluminiscente Acrilico,Placa fotoluminiscente,Acrilico,2400,5.176091259
-2,5,Placa fotoluminiscente Acrilico,Placa fotoluminiscente,Acrilico,5000,5.447158031
-2,5,Placa fotoluminiscente Acrilico,Placa fotoluminiscente,Acrilico,10800,5.806179974
-2,6,Placa fotoluminiscente Lamina,Placa fotoluminiscente,Lamina,25,4
-2,6,Placa fotoluminiscente Lamina,Placa fotoluminiscente,Lamina,200,4.556302501
-2,6,Placa fotoluminiscente Lamina,Placa fotoluminiscente,Lamina,300,4.62324929
-2,6,Placa fotoluminiscente Lamina,Placa fotoluminiscente,Lamina,450,4.73239376
-2,6,Placa fotoluminiscente Lamina,Placa fotoluminiscente,Lamina,800,4.86923172
-2,6,Placa fotoluminiscente Lamina,Placa fotoluminiscente,Lamina,2400,5.017033339
-2,6,Placa fotoluminiscente Lamina,Placa fotoluminiscente,Lamina,5000,5.301029996
-2,6,Placa fotoluminiscente Lamina,Placa fotoluminiscente,Lamina,10800,5.662757832
-3,7,Placa reflectiva Poliestireno,Placa reflectiva,Poliestireno,25,3.602059991
-3,7,Placa reflectiva Poliestireno,Placa reflectiva,Poliestireno,200,4.146128036
-3,7,Placa reflectiva Poliestireno,Placa reflectiva,Poliestireno,300,4.255272505
-3,7,Placa reflectiva Poliestireno,Placa reflectiva,Poliestireno,450,4.342422681
-3,7,Placa reflectiva Poliestireno,Placa reflectiva,Poliestireno,800,4.602059991
-3,7,Placa reflectiva Poliestireno,Placa reflectiva,Poliestireno,2400,4.934498451
-3,7,Placa reflectiva Poliestireno,Placa reflectiva,Poliestireno,5000,5.146128036
-3,7,Placa reflectiva Poliestireno,Placa reflectiva,Poliestireno,10800,5.462397998
-3,8,Placa reflectiva Acrilico,Placa reflectiva,Acrilico,25,3.77815125
-3,8,Placa reflectiva Acrilico,Placa reflectiva,Acrilico,200,4.255272505
-3,8,Placa reflectiva Acrilico,Placa reflectiva,Acrilico,300,4.342422681
-3,8,Placa reflectiva Acrilico,Placa reflectiva,Acrilico,450,4.477121255
-3,8,Placa reflectiva Acrilico,Placa reflectiva,Acrilico,800,4.643452676
-3,8,Placa reflectiva Acrilico,Placa reflectiva,Acrilico,2400,4.84509804
-3,8,Placa reflectiva Acrilico,Placa reflectiva,Acrilico,5000,5.113943352
-3,8,Placa reflectiva Acrilico,Placa reflectiva,Acrilico,10800,5.477121255
-3,9,Placa reflectiva Lamina,Placa reflectiva,Lamina,25,3.903089987
-3,9,Placa reflectiva Lamina,Placa reflectiva,Lamina,200,4.447158031
-3,9,Placa reflectiva Lamina,Placa reflectiva,Lamina,300,4.531478917
-3,9,Placa reflectiva Lamina,Placa reflectiva,Lamina,450,4.681241237
-3,9,Placa reflectiva Lamina,Placa reflectiva,Lamina,800,4.903089987
-3,9,Placa reflectiva Lamina,Placa reflectiva,Lamina,2400,5.079181246
-3,9,Placa reflectiva Lamina,Placa reflectiva,Lamina,5000,5.301029996
-3,9,Placa reflectiva Lamina,Placa reflectiva,Lamina,10800,5.662757832
-4,10,Calcomania Impresa,Calcomania,Impresa,25,3.301029996
-4,10,Calcomania Impresa,Calcomania,Impresa,200,3.84509804
-4,10,Calcomania Impresa,Calcomania,Impresa,300,4
-4,10,Calcomania Impresa,Calcomania,Impresa,450,4.146128036
-4,10,Calcomania Impresa,Calcomania,Impresa,800,4.505149978
-4,10,Calcomania Impresa,Calcomania,Impresa,2400,4.698970004
-4,10,Calcomania Impresa,Calcomania,Impresa,5000,5.079181246
-4,10,Calcomania Impresa,Calcomania,Impresa,28000,5.414973348
-4,11,Calcomania Fotoluminiscente,Calcomania,Fotoluminiscente,25,3.77815125
-4,11,Calcomania Fotoluminiscente,Calcomania,Fotoluminiscente,200,4.301029996
-4,11,Calcomania Fotoluminiscente,Calcomania,Fotoluminiscente,300,4.380211242
-4,11,Calcomania Fotoluminiscente,Calcomania,Fotoluminiscente,450,4.477121255
-4,11,Calcomania Fotoluminiscente,Calcomania,Fotoluminiscente,800,4.662757832
-4,11,Calcomania Fotoluminiscente,Calcomania,Fotoluminiscente,2400,4.954242509
-4,11,Calcomania Fotoluminiscente,Calcomania,Fotoluminiscente,5000,5.462397998
-4,11,Calcomania Fotoluminiscente,Calcomania,Fotoluminiscente,12000,5.602059991
-4,12,Calcomania Reflectivo,Calcomania,Reflectivo,25,3.602059991
-4,12,Calcomania Reflectivo,Calcomania,Reflectivo,200,4.204119983
-4,12,Calcomania Reflectivo,Calcomania,Reflectivo,300,4.301029996
-4,12,Calcomania Reflectivo,Calcomania,Reflectivo,450,4.477121255
-4,12,Calcomania Reflectivo,Calcomania,Reflectivo,800,4.662757832
-4,12,Calcomania Reflectivo,Calcomania,Reflectivo,2400,4.892094603
-4,12,Calcomania Reflectivo,Calcomania,Reflectivo,5000,5.041392685
-4,12,Calcomania Reflectivo,Calcomania,Reflectivo,12000,5.462397998
-7,13,Marquillas Acrilico Nacional,Marquillas,Acrílico Nacional,1,3.301029996
-7,13,Marquillas Acrilico Nacional,Marquillas,Acrílico Nacional,4,3.602059991
-7,13,Marquillas Acrilico Nacional,Marquillas,Acrílico Nacional,12,3.903089987
-7,13,Marquillas Acrilico Nacional,Marquillas,Acrílico Nacional,60,4.230448921
-7,13,Marquillas Acrilico Nacional,Marquillas,Acrílico Nacional,800,4.041392685
-7,14,Marquillas Acrilico Americano,Marquillas,Acrílico Americano,1,3.602059991
-7,14,Marquillas Acrilico Americano,Marquillas,Acrílico Americano,4,3.77815125
-7,14,Marquillas Acrilico Americano,Marquillas,Acrílico Americano,12,4.079181246
-7,14,Marquillas Acrilico Americano,Marquillas,Acrílico Americano,60,4.477121255
-7,14,Marquillas Acrilico Americano,Marquillas,Acrílico Americano,120,4.77815125
-7,15,Marquillas Pol Impreso,Marquillas,Pol Impreso,1,3.301029996
-7,15,Marquillas Pol Impreso,Marquillas,Pol Impreso,4,3.602059991
-7,15,Marquillas Pol Impreso,Marquillas,Pol Impreso,12,3.903089987
-7,15,Marquillas Pol Impreso,Marquillas,Pol Impreso,60,4.204119983
-7,15,Marquillas Pol Impreso,Marquillas,Pol Impreso,100,4.505149978
-7,16,Marquillas Gravoplay nacional,Marquillas,Gravoplay nacional,1,3.602059991
-7,16,Marquillas Gravoplay nacional,Marquillas,Gravoplay nacional,4,3.77815125
-7,16,Marquillas Gravoplay nacional,Marquillas,Gravoplay nacional,12,4.079181246
-7,16,Marquillas Gravoplay nacional,Marquillas,Gravoplay nacional,60,4.477121255
-7,16,Marquillas Gravoplay nacional,Marquillas,Gravoplay nacional,120,4.77815125
+﻿idcategoria,categoria,Tipo,Material,Area,Precio
+1,Placa-Polilam,Placa,Polilam,1,2000
+1,Placa-Polilam,Placa,Polilam,32,3000
+1,Placa-Polilam,Placa,Polilam,200,4000
+1,Placa-Polilam,Placa,Polilam,300,6000
+1,Placa-Polilam,Placa,Polilam,450,7000
+1,Placa-Polilam,Placa,Polilam,800,15000
+1,Placa-Polilam,Placa,Polilam,2400,40000
+1,Placa-Polilam,Placa,Polilam,5000,100000
+1,Placa-Polilam,Placa,Polilam,18000,350000
+3,Placa-Acrilico Capsulado,Placa,Acrilico Capsulado,1,4000
+3,Placa-Acrilico Capsulado,Placa,Acrilico Capsulado,32,5500
+3,Placa-Acrilico Capsulado,Placa,Acrilico Capsulado,200,13000
+3,Placa-Acrilico Capsulado,Placa,Acrilico Capsulado,300,16000
+3,Placa-Acrilico Capsulado,Placa,Acrilico Capsulado,450,23000
+3,Placa-Acrilico Capsulado,Placa,Acrilico Capsulado,800,35000
+3,Placa-Acrilico Capsulado,Placa,Acrilico Capsulado,2400,60000
+3,Placa-Acrilico Capsulado,Placa,Acrilico Capsulado,5000,150000
+3,Placa-Acrilico Capsulado,Placa,Acrilico Capsulado,18000,379950
+2,Placa-Acrilico Grabada,Placa,Acrilico Grabada,1,4000
+2,Placa-Acrilico Grabada,Placa,Acrilico Grabada,32,6000
+2,Placa-Acrilico Grabada,Placa,Acrilico Grabada,200,18000
+2,Placa-Acrilico Grabada,Placa,Acrilico Grabada,300,25000
+2,Placa-Acrilico Grabada,Placa,Acrilico Grabada,450,35000
+2,Placa-Acrilico Grabada,Placa,Acrilico Grabada,800,69950
+2,Placa-Acrilico Grabada,Placa,Acrilico Grabada,2400,150000
+2,Placa-Acrilico Grabada,Placa,Acrilico Grabada,5000,400000
+2,Placa-Acrilico Grabada,Placa,Acrilico Grabada,18000,2000000
+5,Placa-Lamina galvanizada,Placa,Lamina galvanizada,32,10000
+5,Placa-Lamina galvanizada,Placa,Lamina galvanizada,200,16000
+5,Placa-Lamina galvanizada,Placa,Lamina galvanizada,300,31000
+5,Placa-Lamina galvanizada,Placa,Lamina galvanizada,450,38000
+5,Placa-Lamina galvanizada,Placa,Lamina galvanizada,800,48950
+5,Placa-Lamina galvanizada,Placa,Lamina galvanizada,2400,94000
+5,Placa-Lamina galvanizada,Placa,Lamina galvanizada,5000,202000
+5,Placa-Lamina galvanizada,Placa,Lamina galvanizada,18000,480000
+7,Placa fotoluminiscente-Polilam,Placa fotoluminiscente,Polilam,1,4000
+7,Placa fotoluminiscente-Polilam,Placa fotoluminiscente,Polilam,32,8000
+7,Placa fotoluminiscente-Polilam,Placa fotoluminiscente,Polilam,200,10000
+7,Placa fotoluminiscente-Polilam,Placa fotoluminiscente,Polilam,300,13000
+7,Placa fotoluminiscente-Polilam,Placa fotoluminiscente,Polilam,450,15000
+7,Placa fotoluminiscente-Polilam,Placa fotoluminiscente,Polilam,800,35000
+7,Placa fotoluminiscente-Polilam,Placa fotoluminiscente,Polilam,2400,72000
+7,Placa fotoluminiscente-Polilam,Placa fotoluminiscente,Polilam,5000,180000
+7,Placa fotoluminiscente-Polilam,Placa fotoluminiscente,Polilam,18000,470000
+8,Placa fotoluminiscente-Acrilico,Placa fotoluminiscente,Acrilico,32,3000
+8,Placa fotoluminiscente-Acrilico,Placa fotoluminiscente,Acrilico,200,14000
+8,Placa fotoluminiscente-Acrilico,Placa fotoluminiscente,Acrilico,300,16500
+8,Placa fotoluminiscente-Acrilico,Placa fotoluminiscente,Acrilico,450,21000
+8,Placa fotoluminiscente-Acrilico,Placa fotoluminiscente,Acrilico,800,58000
+8,Placa fotoluminiscente-Acrilico,Placa fotoluminiscente,Acrilico,2400,114000
+8,Placa fotoluminiscente-Acrilico,Placa fotoluminiscente,Acrilico,5000,251000
+8,Placa fotoluminiscente-Acrilico,Placa fotoluminiscente,Acrilico,18000,520000
+10,Placa reflectiva-Polilam,Placa reflectiva,Polilam,32,4000
+10,Placa reflectiva-Polilam,Placa reflectiva,Polilam,200,14000
+10,Placa reflectiva-Polilam,Placa reflectiva,Polilam,300,18000
+10,Placa reflectiva-Polilam,Placa reflectiva,Polilam,450,22000
+10,Placa reflectiva-Polilam,Placa reflectiva,Polilam,800,40000
+10,Placa reflectiva-Polilam,Placa reflectiva,Polilam,2400,86000
+10,Placa reflectiva-Polilam,Placa reflectiva,Polilam,5000,140000
+10,Placa reflectiva-Polilam,Placa reflectiva,Polilam,18000,290000
+11,Placa reflectiva-Lamina galvanizada,Placa reflectiva,Lamina galvanizada,32,8000
+11,Placa reflectiva-Lamina galvanizada,Placa reflectiva,Lamina galvanizada,200,28000
+11,Placa reflectiva-Lamina galvanizada,Placa reflectiva,Lamina galvanizada,300,34000
+11,Placa reflectiva-Lamina galvanizada,Placa reflectiva,Lamina galvanizada,450,48000
+11,Placa reflectiva-Lamina galvanizada,Placa reflectiva,Lamina galvanizada,800,80000
+11,Placa reflectiva-Lamina galvanizada,Placa reflectiva,Lamina galvanizada,2400,120000
+11,Placa reflectiva-Lamina galvanizada,Placa reflectiva,Lamina galvanizada,5000,200000
+11,Placa reflectiva-Lamina galvanizada,Placa reflectiva,Lamina galvanizada,18000,460000
+12,Calcomania-Impresa,Calcomania,Impresa,32,2000
+12,Calcomania-Impresa,Calcomania,Impresa,200,7000
+12,Calcomania-Impresa,Calcomania,Impresa,300,10000
+12,Calcomania-Impresa,Calcomania,Impresa,450,14000
+12,Calcomania-Impresa,Calcomania,Impresa,800,32000
+12,Calcomania-Impresa,Calcomania,Impresa,2400,50000
+12,Calcomania-Impresa,Calcomania,Impresa,5000,120000
+12,Calcomania-Impresa,Calcomania,Impresa,18000,260000
+13,Calcomania-Fotoluminiscente,Calcomania,Fotoluminiscente,32,6000
+13,Calcomania-Fotoluminiscente,Calcomania,Fotoluminiscente,200,20000
+13,Calcomania-Fotoluminiscente,Calcomania,Fotoluminiscente,300,24000
+13,Calcomania-Fotoluminiscente,Calcomania,Fotoluminiscente,450,30000
+13,Calcomania-Fotoluminiscente,Calcomania,Fotoluminiscente,800,46000
+13,Calcomania-Fotoluminiscente,Calcomania,Fotoluminiscente,2400,90000
+13,Calcomania-Fotoluminiscente,Calcomania,Fotoluminiscente,5000,290000
+13,Calcomania-Fotoluminiscente,Calcomania,Fotoluminiscente,18000,400000
+14,Calcomania-Reflectivo,Calcomania,Reflectivo,32,4000
+14,Calcomania-Reflectivo,Calcomania,Reflectivo,200,16000
+14,Calcomania-Reflectivo,Calcomania,Reflectivo,300,20000
+14,Calcomania-Reflectivo,Calcomania,Reflectivo,450,30000
+14,Calcomania-Reflectivo,Calcomania,Reflectivo,800,46000
+14,Calcomania-Reflectivo,Calcomania,Reflectivo,2400,78000
+14,Calcomania-Reflectivo,Calcomania,Reflectivo,5000,110000
+14,Calcomania-Reflectivo,Calcomania,Reflectivo,18000,290000
+18,Marquillas-Acrilico Nacional,Marquillas,Acrilico Nacional,1,2000
+18,Marquillas-Acrilico Nacional,Marquillas,Acrilico Nacional,4,2000
+18,Marquillas-Acrilico Nacional,Marquillas,Acrilico Nacional,12,4000
+18,Marquillas-Acrilico Nacional,Marquillas,Acrilico Nacional,60,10000
+18,Marquillas-Acrilico Nacional,Marquillas,Acrilico Nacional,90,12000
+19,Marquillas-Acrilico Americano,Marquillas,Acrilico Americano,1,2000
+19,Marquillas-Acrilico Americano,Marquillas,Acrilico Americano,4,2500
+19,Marquillas-Acrilico Americano,Marquillas,Acrilico Americano,12,5000
+19,Marquillas-Acrilico Americano,Marquillas,Acrilico Americano,60,15000
+19,Marquillas-Acrilico Americano,Marquillas,Acrilico Americano,90,20000
+20,Marquillas-Polilam,Marquillas,Polilam,1,1000
+20,Marquillas-Polilam,Marquillas,Polilam,4,1500
+20,Marquillas-Polilam,Marquillas,Polilam,12,2000
+20,Marquillas-Polilam,Marquillas,Polilam,60,3000
+20,Marquillas-Polilam,Marquillas,Polilam,90,5500

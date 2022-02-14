@@ -1,48 +1,35 @@
-﻿ID;ID_productos;Descripcion;Tipo/material;Tamaño;Precio
-17;Extintor Multipropósito 5 lbs;Extintor ;Multipropósito;5 lbs;9.210340372
-18;Extintor Multipropósito 10 lbs;Extintor ;Multipropósito;10 lbs;9.798127037
-19;Extintor Multipropósito 20 lbs;Extintor ;Multipropósito;20 lbs;10.08580911
-20;Extintor EXTINTOR AGENTE LIMPIO 2500gr;Extintor ;EXTINTOR AGENTE LIMPIO;2500gr;10.1406129
-21;Extintor EXTINTOR AGENTE LIMPIO 3700gr;Extintor ;EXTINTOR AGENTE LIMPIO;3700gr;9.904237271
-22;Extintor EXTINTOR AGENTE LIMPIO 7000gr;Extintor ;EXTINTOR AGENTE LIMPIO;7000gr;9.751559401
-23;Extintor CO2 5 lbs;Extintor ;CO2;5 lbs;10.13685862
-24;Extintor CO2 10 lbs;Extintor ;CO2;10 lbs;10.0616018
-25;Extintor Agua Estandar;Extintor ;Agua;Estandar;10.2279595
-26;Recarga Extintor Multipropósito 5 lbs;Recarga Extintor;Multipropósito;5 lbs;8.476371197
-27;Recarga Extintor Multipropósito 10 lbs;Recarga Extintor;Multipropósito;10 lbs;8.881836305
-28;Recarga Extintor Multipropósito 20 lbs;Recarga Extintor;Multipropósito;20 lbs;9.210340372
-29;Recarga Extintor EXTINTOR AGENTE LIMPIO 2500gr;Recarga Extintor;EXTINTOR AGENTE LIMPIO;2500gr;10.27211577
-30;Recarga Extintor EXTINTOR AGENTE LIMPIO 3700gr;Recarga Extintor;EXTINTOR AGENTE LIMPIO;3700gr;9.871790466
-31;Recarga Extintor EXTINTOR AGENTE LIMPIO 7000gr;Recarga Extintor;EXTINTOR AGENTE LIMPIO;7000gr;9.59499034
-32;Recarga Extintor CO2 5 lbs;Recarga Extintor;CO2;5 lbs;9.437236872
-33;Recarga Extintor CO2 10 lbs;Recarga Extintor;CO2;10 lbs;10.27152767
-34;Recarga Extintor Agua ¿?;Recarga Extintor;Agua;¿?;9.897016661
-35;Mantenimiento extintor Multipropósito 5 lbs;Mantenimiento extintor;Multipropósito;5 lbs;8.476371197
-36;Mantenimiento extintor Multipropósito 10 lbs;Mantenimiento extintor;Multipropósito;10 lbs;8.881836305
-37;Mantenimiento extintor Multipropósito 20 lbs;Mantenimiento extintor;Multipropósito;20 lbs;9.210340372
-38;Mantenimiento extintor EXTINTOR AGENTE LIMPIO 2500gr;Mantenimiento extintor;EXTINTOR AGENTE LIMPIO;2500gr;10.02959143
-39;Mantenimiento extintor EXTINTOR AGENTE LIMPIO 3700gr;Mantenimiento extintor;EXTINTOR AGENTE LIMPIO;3700gr;10.01744104
-40;Mantenimiento extintor EXTINTOR AGENTE LIMPIO 7000gr;Mantenimiento extintor;EXTINTOR AGENTE LIMPIO;7000gr;10.28058748
-41;Mantenimiento extintor CO2 5 lbs;Mantenimiento extintor;CO2;5 lbs;9.599608345
-42;Mantenimiento extintor CO2 10 lbs;Mantenimiento extintor;CO2;10 lbs;10.28486487
-43;Mantenimiento extintor Agua ¿?;Mantenimiento extintor;Agua;¿?;9.406729186
-44;Base de pared para extintor Plastico PVC 5lbs;Base de pared para extintor;Plastico PVC;5lbs;8.070906089
-45;Base de pared para extintor Plastico PVC 10lbs;Base de pared para extintor;Plastico PVC;10lbs;9.408863308
-46;Base de pared para extintor Plastico PVC 20 lbs;Base de pared para extintor;Plastico PVC;20 lbs;9.693877016
-47;Base de pared para extintor Metal 5lbs;Base de pared para extintor;Metal;5lbs;9.947743644
-48;Base de pared para extintor Metal 10lbs;Base de pared para extintor;Metal;10lbs;10.23788621
-49;Base de pared para extintor Metal 20 lbs;Base de pared para extintor;Metal;20 lbs;9.289798293
-50;Base de Piso para extintor Metal 5lbs;Base de Piso para extintor;Metal;5lbs;10.01547605
-51;Base de Piso para extintor Metal 10lbs;Base de Piso para extintor;Metal;10lbs;10.13606645
-52;Base de Piso para extintor Metal 20 lbs;Base de Piso para extintor;Metal;20 lbs;9.91492193
-53;Botiquín Térmico de 18 productos Pequeño;Botiquín;Térmico de 18 productos;Pequeño;10.2330071
-54;Caja Botiquín Caja en PVC 35x25;Caja Botiquín;Caja en PVC;35x25;10.26318792
-55;Camilla Con inmovilizador 185x45 Unica;Camilla;Con inmovilizador;185x45 Unica;12.16179155
-56;Camilla Sin inmovilizador 185x45 Unica;Camilla;Sin inmovilizador;185x45 Unica;12.06433049
-57;Paleta de Pare y siga Plastico Tamaño 30x30 unico;Paleta de Pare y siga;Plastico;Tamaño 30x30 unico;9.613402595
-58;Rollo de cinta antideslizante Fotoluminiscente 4;Rollo de cinta antideslizante;Fotoluminiscente;75 mts x 50mm;9.613402595
-59;Señales de piso tipo carpa Plastico Estandar;Señales de piso tipo carpa;Plastico;Estandar;12163
-60;Brazalete de brigadista Tela  Estandar;Brazalete de brigadista;Tela ;Estandar;22280
-61;Caneca desechos orgánicos Ordinarios 10lts;Caneca desechos orgánicos;Ordinarios;10lts;17145
-62;Caneca desechos orgánicos Plasticos 10lts;Caneca desechos orgánicos;Plasticos;10lts;14599
-63;Caneca desechos orgánicos Papel y cartón 10lts;Caneca desechos orgánicos;Papel y cartón;10lts;29834
+﻿idcategoria,categoria,Producto,Tipo/material,Tamaño,Precio
+24,Extintor-Multiproposito-5 lbs,Extintor,Multiproposito,5 lbs,10000
+24,Extintor-Multiproposito-10 lbs,Extintor,Multiproposito,10 lbs,18000
+24,Extintor-Multiproposito-20 lbs,Extintor,Multiproposito,20 lbs,24000
+24,Extintor-EXTINTOR AGENTE LIMPIO-2500gr,Extintor,EXTINTOR AGENTE LIMPIO,2500gr,25352
+24,Extintor-EXTINTOR AGENTE LIMPIO-3700gr,Extintor,EXTINTOR AGENTE LIMPIO,3700gr,20015
+24,Extintor-EXTINTOR AGENTE LIMPIO-7000gr,Extintor,EXTINTOR AGENTE LIMPIO,7000gr,17181
+24,Extintor-CO2-5 lbs,Extintor,CO2,5 lbs,25257
+24,Extintor-CO2-10 lbs,Extintor,CO2,10 lbs,23426
+24,Extintor-Agua-Estandar,Extintor,Agua,Estandar,27666
+26,Mantenimiento extintor-Multiproposito-5 lbs,Mantenimiento extintor,Multiproposito,5 lbs,4800
+26,Mantenimiento extintor-Multiproposito-10 lbs,Mantenimiento extintor,Multiproposito,10 lbs,7200
+26,Mantenimiento extintor-Multiproposito-20 lbs,Mantenimiento extintor,Multiproposito,20 lbs,10000
+26,Mantenimiento extintor-EXTINTOR AGENTE LIMPIO-2500gr,Mantenimiento extintor,EXTINTOR AGENTE LIMPIO,2500gr,22688
+26,Mantenimiento extintor-EXTINTOR AGENTE LIMPIO-3700gr,Mantenimiento extintor,EXTINTOR AGENTE LIMPIO,3700gr,22414
+26,Mantenimiento extintor-EXTINTOR AGENTE LIMPIO-7000gr,Mantenimiento extintor,EXTINTOR AGENTE LIMPIO,7000gr,29161
+26,Mantenimiento extintor-CO2-5 lbs,Mantenimiento extintor,CO2,5 lbs,14759
+26,Mantenimiento extintor-CO2-10 lbs,Mantenimiento extintor,CO2,10 lbs,29286
+26,Mantenimiento extintor-Agua-¿?,Mantenimiento extintor,Agua,¿?,12170
+27,Base para extintor-Plastico PVC-5lbs,Base para extintor,Plastico PVC,5lbs,3200
+27,Base para extintor-Plastico PVC-10lbs,Base para extintor,Plastico PVC,10lbs,12196
+27,Base para extintor-Plastico PVC-20 lbs,Base para extintor,Plastico PVC,20 lbs,16218
+27,Base para extintor-Metal-5lbs,Base para extintor,Metal,5lbs,20905
+27,Base para extintor-Metal-10lbs,Base para extintor,Metal,10lbs,27942
+27,Base para extintor-Metal-20 lbs,Base para extintor,Metal,20 lbs,10827
+27,Base para extintor-Piso Metal-5lbs,Base para extintor,Piso Metal,5lbs,22370
+27,Base para extintor-Piso Metal-10lbs,Base para extintor,Piso Metal,10lbs,25237
+27,Base para extintor-Piso Metal-20 lbs,Base para extintor,Piso Metal,20 lbs,20230
+28,Botiquín-Térmico de 18 productos-Pequeño,Botiquín,Térmico de 18 productos,Pequeño,27806
+30,Camilla-Con inmovilizador-185x45 Unica,Camilla,Con inmovilizador,185x45 Unica,191337
+30,Camilla-Sin inmovilizador-185x45 Unica,Camilla,Sin inmovilizador,185x45 Unica,173569
+32,Paleta -PVC-Tamaño 25x25,Paleta ,PVC,Tamaño 25x25,14964
+33,Cintas de Seguridad Industrial-Antideslizante Fotoluminiscente-75 mts x 50mm,Cintas de Seguridad Industrial,Antideslizante Fotoluminiscente,75 mts x 50mm,50000
+35,Señales de piso tipo carpa-Plastico-Estandar,Señales de piso tipo carpa,Plastico,Estandar,12163
+36,Brazalete de brigadista-Tela -Estandar,Brazalete de brigadista,Tela ,Estandar,22280

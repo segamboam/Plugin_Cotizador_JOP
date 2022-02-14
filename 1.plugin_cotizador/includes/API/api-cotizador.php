@@ -26,9 +26,14 @@ function jop_coti_placas_callback($request)
     $data=$request->get_params();
     $ruta1=JOP_PATH."public/temporalcsv/cotizacion_placas.csv";
     $ruta2=JOP_PATH."public/temporalcsv/cotizacion_implementos.csv";
+    if (array_key_exists('Items_P', $data)) {
+        escribir_datos($ruta1,$data["Items_P"]);
+    }
+    if (array_key_exists('Items_I', $data)) {
+        escribir_datos($ruta2,$data["Items_I"]);
+    }    
     
-    escribir_datos($ruta1,$data["Items_P"]);
-    escribir_datos($ruta2,$data["Items_I"]);
+    
 
 
    return $data;
