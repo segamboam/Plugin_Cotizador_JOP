@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JOP</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    
+    <header>
+        <img class="logo" src="../utils/logoSegInd.png" alt="logo">
+        <img class="menu" src="../utils/menu.svg" alt="menu" onclick="toggleOn()"> 
+        <nav class="navBar__desktop" >
+            <ul> 
+                <a href="#">BIOSEGURIDAD</a>
+                <a href="#">SENALIZACION</a>
+                <a href="#">SEGURIDAD INDUSTRIAL</a>
+                <a href="#">NOSOTROS</a>
+                <a href="3">INFORMACION DE INTERES</a>
+                <a href="3">COTIZAR</a>
+            </ul>
+        </nav>
+        <nav class="navBar__mobile">
+            <ul onclick="toggleOff()"> 
+                <a href="#" >BIOSEGURIDAD</a>
+                <a href="#" >SENALIZACION</a>
+                <a href="#" >SEGURIDAD INDUSTRIAL</a>
+                <a href="#" >NOSOTROS</a>
+                <a href="#" >INFORMACION DE INTERES</a>
+                <a href="#" >COTIZAR</a>
+            </ul>
+        </nav>
+    </header>
+
+
+    <main>
+        <section class="main__encabezado">
+            <h1>COTIZADOR</h1>
+            <img src="../utils/papel.svg" alt="">
+            <p>Cotiza tu Senalizacion e Implementos de Seguridad Industrial en tiempo real, genar un PDF con tu cotizacion formal. Consulta las caracteristicas de cada producto y material para que sepas exactamente lo que estas cotizando.</p>
+            <p>Para comenzar necesitaremos saber los datos sobre a quien va dirigida tu cotizacion</p>
+        </section>
+        <form action="#" class="main__data">
+            <div class="main__data-inputs">
+                <div>
+                    <input name="empresa" id="empresa" type="text" placeholder="Empresa">
+                    <input name="email"  id="email" type="email" name="" placeholder="e-mail" required>
+                </div>
+                <div>
+                    <input name="nombre" id="nombre" type="text" placeholder="Nombre" required>
+                    <input name="celular" id="celular" type="number" placeholder="Celular" required>
+                </div>
+                <div>
+                    <input name="direccion" id="direccion" type="text" placeholder="Direccion" required>
+                    <input name="ciudad" id="ciudad" type="text" placeholder="Ciudad" required>
+                </div>
+                <div>
+                    <input name="identificacion" id="identificacion" type="number" placeholder="# Identificacion" required>
+                    <select name="tipo" id="tipo"  required>
+                        <option value="" > tipo de documento </option>
+                        <option value="cedula">Cedula de Ciudadania</option>
+                        <option value="nit">NIT</option>
+                        <option value="pasaporte">Pasaporte</option>
+                    </select>
+                   
+                </div>
+                <div class="main__data-check">
+                    <div>
+                        <input name="politica" type="checkbox" name="politica" id="" required> 
+                        <label for="politica">Acepto las condiciones del servicio y la politica de privacidad de JOP Avisos</label>
+                    </div>
+                    <div>
+                        <input name = "promos" type="checkbox" name="promos" id="">
+                        <label for="promos">(No Spam) Acepto que JOP Avisos use mi informacion para enviarme promociones No spam que puedan interesarme de acuerdo a la informacion enviada en mi cotizacion</label>
+                    </div>
+                </div>
+            </div>
+           
+            <div class="main__button-container">
+                <button type="submit" class="main__button"> Continuar</button>
+            </div>
+            
+           
+        </form>
+    </main>
+    <script src="../js/datos.js"></script>
+    
+</body>
+
+<footer>
+    <div>
+        <ul>
+            <a href="">Terminos y Condiciones</a> 
+            <a href="">Politica de Privacidad</a> 
+            <a href="">Descarga de Responsabilidad</a> 
+            <a href="">Aviso de Copyright</a>
+           
+        </ul>
+        <ul>
+            <li>Correo:</li>
+            <li class="info">jopavisos@gmail.com</li>
+        </ul>
+        <ul>
+            <li>Telefono:</li>
+            <li class="info">304 608 3830 - 319 350 7948 - 311 239 3691</li>
+        </ul>
+        <ul>
+            <li>Direccion:</li>
+            <a href="" class="info">Calle 17 # 12-40 Bogota D.C. - Colombia</a>
+        </ul>
+    </div>
+        <p>Copyright © 2020 JOP Avisos | Powered by Astra WordPress Theme</p>
+</footer>
+
+</html>
